@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/stick/AndroidStudioProjects/vermin/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/stick/AndroidStudioProjects/vermin/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_97ae3979c483cc0bff1527dd667f4348089ddb84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stick/AndroidStudioProjects/vermin/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/stick/AndroidStudioProjects/vermin/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.0_870e7ac7d49eb466e63661df02133904a0e6170f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stick/AndroidStudioProjects/vermin/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/stick/AndroidStudioProjects/vermin/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_d8b13dfcd8c4e59667f9cf90a9522f2b9dd414ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stick/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/stick/AndroidStudioProjects/vermin/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_f3cda6da1a78b5f21e85825b313d503dab5b4869.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stick/AndroidStudioProjects/vermin/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/stick/AndroidStudioProjects/vermin/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_e9901ee776a88b6ee4a762696b7bd43fba5025e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stick/AndroidStudioProjects/vermin/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/stick/AndroidStudioProjects/vermin/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_58d58db5e97ab704424e85ac3152e9a399833bbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stick/AndroidStudioProjects/vermin/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/stick/AndroidStudioProjects/vermin/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_75999fc9a5e3b357483888211e409d16aee62d53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stick/AndroidStudioProjects/vermin/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d582626866d19739950f087138ea22af58d4477e">
+        <dex dex="/Users/stick/AndroidStudioProjects/vermin/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_db192d0cbbd13046aa02cb6c75f206a8a86afec9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stick/AndroidStudioProjects/vermin/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/stick/AndroidStudioProjects/vermin/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_0aa81760bdd9fe336935a3c7f620b3de35ef27b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stick/AndroidStudioProjects/vermin/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="24bc4c18e2c7db1f19d773a1b1e2cba1bc19f0d3">
+        <dex dex="/Users/stick/AndroidStudioProjects/vermin/app/build/intermediates/pre-dexed/debug/instant-run_e1ca606835865f569c4f9f6fff6d22592ec2f739.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stick/AndroidStudioProjects/vermin/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/stick/AndroidStudioProjects/vermin/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_61d5083e17e9f51773a8fe0be8b7ebfd19685338.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stick/AndroidStudioProjects/vermin/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/stick/AndroidStudioProjects/vermin/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_901d0bb4ebc2b2948ed52be34585b1531610cb2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stick/AndroidStudioProjects/vermin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/stick/AndroidStudioProjects/vermin/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_f2d99a4fb543cfda5bc334581c212a69945dcc14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stick/AndroidStudioProjects/vermin/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/stick/AndroidStudioProjects/vermin/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.0_3db7ab1f0020646bb406cf58193678c8183f1871.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stick/AndroidStudioProjects/vermin/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/stick/AndroidStudioProjects/vermin/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_a13a9a3d60615de665378dc552bd64956d848d17.jar" />
+    </item>
+
+</items>
